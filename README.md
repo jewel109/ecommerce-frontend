@@ -5,7 +5,7 @@
 # todo
 
 - [x] responsive nav menu  
-- [ ] footer 
+- [x] footer 
 - [x] default dark theme  
 - [ ] register 
 - [ ] login 
